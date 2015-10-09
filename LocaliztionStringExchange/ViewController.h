@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#define NOTIFICATION_CHANGE_LANGUAGE @"ChangeLanguage"
 @interface ViewController : UIViewController
 
 

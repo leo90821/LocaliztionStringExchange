@@ -1,0 +1,9 @@
+/* 
+  MyString.strings
+  LocaliztionStringExchange
+
+  Created by 倪瑶 on 15/10/9.
+  Copyright © 2015年 nycode. All rights reserved.
+*/
+"Hello"     = "Hello~";
+"Change"    = "Change";
